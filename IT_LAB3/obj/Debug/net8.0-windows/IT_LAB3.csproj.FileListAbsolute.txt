@@ -1,0 +1,32 @@
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.exe
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.deps.json
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.runtimeconfig.json
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.dll
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.pdb
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.AssemblyInfo.cs
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.dll
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\refint\IT_LAB3.dll
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.pdb
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.genruntimeconfig.cache
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\ref\IT_LAB3.dll
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.Form1.resources
+\\Mac\Home\Documents\2 курс\ТИ\IT_Lab3\IT_LAB3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.csproj.GenerateResource.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.exe
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.deps.json
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.runtimeconfig.json
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\bin\Debug\net8.0-windows\IT_LAB3.pdb
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.Form1.resources
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.csproj.GenerateResource.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.AssemblyInfoInputs.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.AssemblyInfo.cs
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\refint\IT_LAB3.dll
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.pdb
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\IT_LAB3.genruntimeconfig.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab3\IT_LAB3\obj\Debug\net8.0-windows\ref\IT_LAB3.dll
