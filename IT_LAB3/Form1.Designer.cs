@@ -126,6 +126,7 @@ partial class Form1
         ResultButton.TabIndex = 6;
         ResultButton.Text = "Преобразовать";
         ResultButton.UseVisualStyleBackColor = true;
+        ResultButton.Click += ResultButtonClick;
         // 
         // PlainTextBox
         // 
@@ -133,6 +134,7 @@ partial class Form1
         PlainTextBox.Multiline = true;
         PlainTextBox.Name = "PlainTextBox";
         PlainTextBox.ReadOnly = true;
+        PlainTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
         PlainTextBox.Size = new System.Drawing.Size(565, 437);
         PlainTextBox.TabIndex = 7;
         // 
@@ -142,6 +144,7 @@ partial class Form1
         CipherTextBox.Multiline = true;
         CipherTextBox.Name = "CipherTextBox";
         CipherTextBox.ReadOnly = true;
+        CipherTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
         CipherTextBox.Size = new System.Drawing.Size(565, 437);
         CipherTextBox.TabIndex = 8;
         // 
@@ -240,6 +243,7 @@ partial class Form1
         OpenPlainTextButton.ShowShortcutKeys = false;
         OpenPlainTextButton.Size = new System.Drawing.Size(503, 44);
         OpenPlainTextButton.Text = "Открыть исходный текст";
+        OpenPlainTextButton.Click += OpenPlainFileClick;
         // 
         // OpenCipherTextButton
         // 
@@ -249,6 +253,7 @@ partial class Form1
         OpenCipherTextButton.ShowShortcutKeys = false;
         OpenCipherTextButton.Size = new System.Drawing.Size(503, 44);
         OpenCipherTextButton.Text = "Открыть зашифрованный текст";
+        OpenCipherTextButton.Click += OpenCipherFileClick;
         // 
         // toolStripSeparator
         // 
@@ -263,6 +268,7 @@ partial class Form1
         SavePlainTextButton.ShowShortcutKeys = false;
         SavePlainTextButton.Size = new System.Drawing.Size(503, 44);
         SavePlainTextButton.Text = "Со&хранить исходный текст";
+        SavePlainTextButton.Click += SavePlainText;
         // 
         // SaveCipherTextButton
         // 
@@ -270,12 +276,14 @@ partial class Form1
         SaveCipherTextButton.ShowShortcutKeys = false;
         SaveCipherTextButton.Size = new System.Drawing.Size(503, 44);
         SaveCipherTextButton.Text = "Сохранить зашифрованный текст";
+        SaveCipherTextButton.Click += SaveCipherText;
         // 
         // ClearBoxesButton
         // 
         ClearBoxesButton.Name = "ClearBoxesButton";
         ClearBoxesButton.Size = new System.Drawing.Size(197, 36);
         ClearBoxesButton.Text = "Очистить поля";
+        ClearBoxesButton.Click += CLearClick;
         // 
         // Form1
         // 
